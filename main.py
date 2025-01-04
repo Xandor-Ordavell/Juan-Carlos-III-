@@ -3,7 +3,6 @@ import os
 import requests
 import discord
 import numpy
-import keras
 import requests
 from discord.ext import commands
 
